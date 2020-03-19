@@ -1,3 +1,4 @@
+env: product-dev
 spring:
   datasource:
     username: root
